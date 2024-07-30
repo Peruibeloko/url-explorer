@@ -1,6 +1,6 @@
 <template>
   <main>
-    <input type="text" v-model="input" placeholder="Enter a URL" />
+    <input type="text" v-model="input" placeholder="Enter an URL" />
     <section id="top">
       <div class="entry">
         <label for="domain">Domain</label>
